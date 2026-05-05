@@ -1,0 +1,29 @@
+- src/
+  - config/
+    - [✓] settings.py {1}
+  - utils/
+    - [✓] http.py {2}
+    - [✓] io.py {3}
+  - web/
+    - [✓] google_search.py {4}
+    - [✓] fetch.py {5}
+  - llm/
+    - [✓] llm_api.py {6}
+    - [✓] embedding_api.py {7}
+    - [✓] vision_llm_api.py {8}
+  - rag/
+    - vector_db/
+      - [✓] __init__.py {9}
+      - [✓] vector_db.py {10}
+    - retriever/
+      - [✓] __init__.py {11}
+      - [✓] retriever.py {12}
+  - layout/
+    - [✓] dashboard_layout_generator.py {13}
+  - agents/
+    - [✓] news_reporter_graph.py {14}
+  - __init__.py
+  - [✓] main.py {15}
+
+- [✓] requirements.txt {16}
+- [✓] preferences.txt {17}

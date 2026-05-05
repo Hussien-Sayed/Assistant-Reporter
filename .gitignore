@@ -1,1 +1,5 @@
 project-steps.md
+.env
+preferences.txt
+output/
+.pytest_cache/
